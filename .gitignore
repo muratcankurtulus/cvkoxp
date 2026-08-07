@@ -2,3 +2,4 @@ utils/
 trial.py
 *.png
 *.bmp
+.worktrees/
